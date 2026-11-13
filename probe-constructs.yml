@@ -1,0 +1,8 @@
+key_comment: # a hash comment
+key_single: 'Books'
+key_double: "<!-- -->"
+key_escape: "\n\n"
+key_anchor: &anchor value
+key_alias: *anchor
+key_bang: "!doctype"
+key_gt: "a > b"
